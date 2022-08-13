@@ -1,0 +1,10 @@
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\obj\Debug\Practical_9B.csprojAssemblyReference.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\obj\Debug\Practical_9B.Form1.resources
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\obj\Debug\Practical_9B.Properties.Resources.resources
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\obj\Debug\Practical_9B.csproj.GenerateResource.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\obj\Debug\Practical_9B.csproj.CoreCompileInputs.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\bin\Debug\Practical_9B.exe.config
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\bin\Debug\Practical_9B.exe
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\bin\Debug\Practical_9B.pdb
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\obj\Debug\Practical_9B.exe
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_9\Practical_9B\obj\Debug\Practical_9B.pdb
