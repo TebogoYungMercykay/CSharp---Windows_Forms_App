@@ -1,0 +1,10 @@
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\kayme\Documents\C-Sharp\INF154\Assigments\HW_Assignment_2\HWA\Assignment2\obj\Debug\Assignment2.pdb
