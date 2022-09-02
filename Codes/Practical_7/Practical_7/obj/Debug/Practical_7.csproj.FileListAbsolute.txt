@@ -1,0 +1,20 @@
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\bin\Debug\Practical_7.exe.config
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\bin\Debug\Practical_7.exe
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\bin\Debug\Practical_7.pdb
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.csprojAssemblyReference.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.Form1.resources
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.Properties.Resources.resources
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.csproj.GenerateResource.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.csproj.CoreCompileInputs.cache
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.exe
+C:\Users\kayme\Documents\C-Sharp\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.pdb
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\bin\Debug\Practical_7.exe.config
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\bin\Debug\Practical_7.exe
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\bin\Debug\Practical_7.pdb
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.csprojAssemblyReference.cache
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.Form1.resources
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.Properties.Resources.resources
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.csproj.GenerateResource.cache
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.csproj.CoreCompileInputs.cache
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.exe
+C:\Users\kayme\Documents\CS\First Semester\INF154\Practicals\Practical_7\Practical_7\obj\Debug\Practical_7.pdb

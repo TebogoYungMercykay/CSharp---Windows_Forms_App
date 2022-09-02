@@ -1,0 +1,10 @@
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\bin\Debug\Practical_2a.exe.config
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\bin\Debug\Practical_2a.exe
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\bin\Debug\Practical_2a.pdb
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\obj\Debug\Practical_2a.csprojAssemblyReference.cache
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\obj\Debug\Practical_2a.frmDetails.resources
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\obj\Debug\Practical_2a.Properties.Resources.resources
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\obj\Debug\Practical_2a.csproj.GenerateResource.cache
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\obj\Debug\Practical_2a.csproj.CoreCompileInputs.cache
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\obj\Debug\Practical_2a.exe
+C:\Users\kayme\OneDrive\Documents\C-Sharp\INF154\Practicals\Practical _2\Practical_2a\Practical_2a\obj\Debug\Practical_2a.pdb
