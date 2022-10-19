@@ -8,7 +8,7 @@ ________________________________________________________________________________
        Or Alternatively follow the "Acquiring the Software.pdf" file
 - ### About Codes:
     - The code is all written by myself only
-    - I hard code them as part of my practice code, practical and assignemnts for my coding modules.
+    - I hard code them as part of my **practice** code, practical and assignemnts for my coding modules.
 - ###  About Me: 
     - Tebogo Sello Selepe
     - Computer Sciences at Tuks
